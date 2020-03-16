@@ -6,4 +6,4 @@ Find probability of solution in the Maze , Using MonteCarlo simulation
         
     - [x] Maze solving algorithm
     - [x] Threads for reduce time complexcity
-    - [ ] Apply Dynamic prograam consept
+    - [ ] Apply Dynamic programming cancept
